@@ -20,7 +20,7 @@ gem 'devise'
 gem 'dotenv-rails', groups: [:development, :test]
 gem 'rest-client'
 gem 'cloudinary'
-gem 'carrierwave', '~> 1.2'
+gem 'carrierwave', '~> 1.3'
 gem "algoliasearch-rails"
 gem 'pg_search'
 
